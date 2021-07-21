@@ -13,7 +13,7 @@
     "body-parser": "^1.19.0",
     "cordova-registry-mapper": "^1.1.15",
     "express": "^4.17.1",
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.8",
     "old": "^0.2.0",
     "typedarray": "^0.0.6"
   }
